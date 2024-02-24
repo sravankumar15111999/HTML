@@ -1,0 +1,76 @@
+.tahoma-font{
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 25px;
+}
+.deals-year{
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 0px;
+}
+.sales-end{
+  font-family: Arial;
+  font-size: 20px;
+  color: red;
+  margin-top: 5px;
+  font-style: italic;
+
+}
+.css-course{
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 0px;
+
+
+}
+.to-pro{
+  margin-top:5px;
+  font-family: Verdana;
+  font-size: 16px;
+  
+}
+
+.course-skills{
+  font-family: Verdana;
+   width: 350px;
+  font-size: larger ;
+
+}
+.get-started{
+  background-color: green;
+  color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size:17px;
+  font-weight: lighter;
+  border: none;
+  border-radius: 5px;
+}
+.for-your{
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 0px;
+  text-align: center;
+
+}
+.apple-work{
+  font-family: Arial;
+  font-size: 17px;
+  text-align: center;
+  margin-top: 16px;
+  font-weight: lighter;
+  margin-bottom: 0px;
+
+}
+.learnmore{
+  font-family: Arial;
+  font-size: 16px;
+  color: rgb(31, 82, 222);
+  text-align: center;
+  text-decoration: underline;
+}
